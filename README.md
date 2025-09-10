@@ -20,12 +20,21 @@ It includes basic to intermediate examples covering concepts like loops, arrays,
 📖 Topics Covered
 
 Variables & Data Types
+
 Operators & Expressions
+
 Conditional Statements (if, else, switch)
+
 Loops (for, while, do-while)
+
 Arrays (1D & 2D)
+
 Strings
+
 Functions & Recursion
+
 Pointers
+
 Structures & Unions
+
 File Handling (later stage)
