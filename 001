@@ -1,0 +1,23 @@
+//add two integers
+
+#include <stdio.h>
+
+int main() {
+    int a, b, sum;   // declare variables
+    
+    // take first number as input
+    printf("Enter the first value: ");
+    scanf("%d", &a);
+    
+    // take second number as input
+    printf("Enter the second value: ");
+    scanf("%d", &b);
+    
+    // calculate sum
+    sum = a + b;
+    
+    // print result
+    printf("The sum is %d\n", sum);
+    
+    return 0;  // program ends
+}
